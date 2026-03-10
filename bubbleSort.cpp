@@ -7,7 +7,7 @@ int arr[20]; // Global variable: array with size 20
 int n;       // Global variable: to store number of elements in the array
 void input()
 {
-    // input code
+     // input code
     int i;
     while (true)
     {
@@ -95,4 +95,5 @@ int main()
     return 0;
 
 }
+
 
