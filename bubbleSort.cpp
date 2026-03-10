@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 
-int arr[20]; // Global variable: array with size 20
+int arr[20];  // Global variable: array with size 20
 int n;       // Global variable: to store number of elements in the array
 void input()
 {
@@ -93,4 +93,5 @@ int main()
 
     system("pause");
     return 0;
+
 }
